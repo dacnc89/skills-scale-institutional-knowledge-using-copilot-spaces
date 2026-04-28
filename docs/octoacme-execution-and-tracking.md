@@ -24,9 +24,14 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Manual QA for feature acceptance when needed
 
 ## Reporting & Metrics
+- Publish a [Weekly Status Update](templates/weekly-status-update-template.md) every week covering accomplishments, next steps, risks, and blockers.
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager
 - Use dashboards for key signals (errors, latency, usage)
+
+## Decision Tracking
+- Log every significant decision (architectural, scope, process) in the [Decision Log](templates/decision-log-template.md).
+- Reference decision IDs in PRs and issues to provide context for reviewers.
 
 ## Blocker Escalation
 - Level 1: Team-level triage in daily standup
@@ -37,4 +42,17 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly (see [Risk Register](templates/risk-register-template.md))
+- [ ] [Weekly Status Update](templates/weekly-status-update-template.md) published
+- [ ] [Decision Log](templates/decision-log-template.md) kept current
+
+---
+
+## Related Resources
+
+- [Project Planning Guide](octoacme-project-planning.md)
+- [Risk Management & Communication](octoacme-risks-and-communication.md)
+- [Weekly Status Update Template](templates/weekly-status-update-template.md)
+- [Decision Log Template](templates/decision-log-template.md)
+- [Definition of Ready / Done Checklist](templates/definition-of-ready-done-checklist.md)
+- [Templates Index](templates/README.md)

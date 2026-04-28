@@ -16,6 +16,9 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Smoke tests prepared
 
 ## Deployment Checklist
+Use the comprehensive [Release Readiness Checklist](templates/release-readiness-checklist.md) for a full pre-release gate check.
+
+Quick checklist:
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)
 - [ ] Deploy to staging and run smoke tests
@@ -36,3 +39,14 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Notable changes:
 - Migration steps (if any):
 - Known issues:
+
+---
+
+## Related Resources
+
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Release Readiness Checklist](templates/release-readiness-checklist.md)
+- [Definition of Done Checklist](templates/definition-of-ready-done-checklist.md)
+- [Risk Register (RAID) Template](templates/risk-register-template.md)
+- [Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
+- [Templates Index](templates/README.md)

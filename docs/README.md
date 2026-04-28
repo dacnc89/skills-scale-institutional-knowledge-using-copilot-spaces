@@ -60,4 +60,21 @@ See: [Retrospective & Continuous Improvement](octoacme-retrospective-and-continu
 
 ---
 
+## Templates & Checklists
+
+Reusable templates and checklists for every stage of the lifecycle. Copy a template into your project folder and fill in the placeholders.
+
+| Template | Purpose |
+|---|---|
+| [Kickoff Agenda](templates/kickoff-agenda-template.md) | Structure and run an effective project kickoff meeting |
+| [Decision Log](templates/decision-log-template.md) | Track key decisions, options considered, and rationale |
+| [Risk Register (RAID)](templates/risk-register-template.md) | Log risks, assumptions, issues, and dependencies |
+| [Definition of Ready / Done](templates/definition-of-ready-done-checklist.md) | Define entry and exit criteria for work items |
+| [Weekly Status Update](templates/weekly-status-update-template.md) | Publish structured weekly project status reports |
+| [Release Readiness Checklist](templates/release-readiness-checklist.md) | Gate-check all requirements before deploying to production |
+
+See: [Templates Index](templates/README.md)
+
+---
+
 *Use these documents as a reference for processes, templates, and expectations throughout your project lifecycle.*

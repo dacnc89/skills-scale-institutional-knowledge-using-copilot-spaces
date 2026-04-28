@@ -32,6 +32,8 @@ Whenever a new project idea or feature proposal is ready to be explored.
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
+- [ ] Kickoff meeting scheduled using the [Kickoff Agenda Template](templates/kickoff-agenda-template.md)
+- [ ] Initial decisions captured in the [Decision Log Template](templates/decision-log-template.md)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
 - [ ] Add initial artifacts to repo (docs/ or .copilot/)
@@ -41,3 +43,14 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+
+---
+
+## Related Resources
+
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Kickoff Agenda Template](templates/kickoff-agenda-template.md)
+- [Decision Log Template](templates/decision-log-template.md)
+- [Risk Register (RAID) Template](templates/risk-register-template.md)
+- [Roles & Personas](octoacme-roles-and-personas.md)
+- [Templates Index](templates/README.md)
