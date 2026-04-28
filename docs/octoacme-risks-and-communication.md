@@ -4,6 +4,8 @@
 Explain how to identify, manage, and communicate risks and dependencies.
 
 ## Risk Register
+Use the [Risk Register (RAID) Template](templates/risk-register-template.md) to track all Risks, Assumptions, Issues, and Dependencies in one place.
+
 Maintain a simple table with:
 - ID
 - Description
@@ -25,6 +27,8 @@ Maintain a simple table with:
 - Use a single source of truth (project README or release doc) for status
 
 ## Communication Templates
+Use the [Weekly Status Update Template](templates/weekly-status-update-template.md) for structured, consistent status reporting.
+
 Weekly Status Template:
 - Progress this week:
 - Next steps:
@@ -40,3 +44,13 @@ Incident Communication
 ## Escalation Paths
 - Team-level -> PM -> Product Lead -> Sponsor
 - For security incidents, follow the security incident runbook and notify Security on-call
+
+---
+
+## Related Resources
+
+- [Execution & Tracking](octoacme-execution-and-tracking.md)
+- [Risk Register (RAID) Template](templates/risk-register-template.md)
+- [Weekly Status Update Template](templates/weekly-status-update-template.md)
+- [Decision Log Template](templates/decision-log-template.md)
+- [Templates Index](templates/README.md)
